@@ -1,35 +1,26 @@
 ---
-title: Markdown Mystery Tour
-publishDate: 2020-03-02 00:00:00
-img: /assets/stock-1.jpg
+title: Mapa interactivo GeoGuia
+publishDate: 2023-03-02 00:00:00
+img: /assets/stock-1.png
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
-  We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
+  Diseñé un mapa interactivo con la posibilidad de tomar tu geo ubicación para así reconocer los lugares turisticos cerca de ti
 tags:
   - Design
   - Dev
   - User Testing
+  - Backend
+  - Frontend
+  - devOps
 ---
 
-## Level-two heading
+## GeoGuia
+> Tell me and I forget. Teach me and I remember. Involve me and I learn. 
 
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
+<a href="https://feature-geoguia--incredible-kitten-9d5a79.netlify.app/" target="_blank">Un mapa interactivo turístico </a>desarrollado con React,  TypeScript y Firebase es una aplicación web moderna y atractiva que permite a los usuarios explorar una ubicación turística y descubrir puntos de interés, actividades y restaurantes cercanos. La aplicación presenta un diseño limpio y una navegación intuitiva que ayuda a los usuarios a encontrar rápidamente la información que necesitan.
 
-Lorem ipsum dolor sit amet, <a href="https://astro.build/">Astro</a> makes people happy. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Proin nibh nisl condimentum id venenatis a condimentum vitae. Dapibus ultrices in iaculis nunc. Arcu odio ut sem nulla pharetra diam sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in ornare.
+React y TypeScript proporcionan una base sólida para la creación de interfaces de usuario modernas y dinámicas. Estas tecnologías permiten la creación de componentes reutilizables y una programación más segura y eficiente. Firebase, por otro lado, es una plataforma en la nube que proporciona una base de datos en tiempo real, autenticación de usuarios, almacenamiento de archivos y servicios de alojamiento. Esto hace que sea fácil y rápido para los desarrolladores agregar capacidades de back-end a la aplicación sin tener que preocuparse por la gestión de servidores.
 
-Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Eget gravida cum sociis natoque penatibus. Cras fermentum odio eu feugiat pretium nibh. Proin nibh nisl condimentum id venenatis. Porta nibh venenatis cras sed felis eget velit. Id diam vel quam elementum pulvinar etiam non.
+En el mapa interactivo turístico, los usuarios pueden ver su ubicación actual y la ubicación de los puntos de interés, actividades y restaurantes en el mapa. Al hacer clic en un punto, se muestra información adicional sobre el lugar, como su nombre, descripción, imágenes y reseñas. La aplicación también permite a los usuarios agregar lugares a su lista de favoritos y compartirlos en las redes sociales.
 
-### Level-three heading
-
-Ultrices tincidunt arcu non sodales neque sodales ut. Sed enim ut sem viverra aliquet eget sit amet. Lacus luctus accumsan tortor posuere ac ut consequat semper viverra. Viverra accumsan in nisl nisi scelerisque eu ultrices. In massa tempor nec feugiat nisl pretium fusce.
-
-### Level-three heading
-
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
-
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
-
-#### Level-four heading
-
-- We noted this
-- And also this other point
+En resumen, un mapa interactivo turístico desarrollado con React, TypeScript y Firebase es una aplicación moderna y atractiva que proporciona a los usuarios una experiencia interactiva y personalizada mientras exploran una ubicación turística.
